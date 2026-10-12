@@ -1,0 +1,190 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 [FHD]" tvg-logo="http://lgfp.one/AXJ" group-title="Canais | Premiere",PREMIERE 2 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/525.ts
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 [FHD][H265]" tvg-logo="http://lgfp.one/VSX" group-title="Canais | Premiere",PREMIERE 2 [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30284.ts
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 [HD]" tvg-logo="http://lgfp.one/AXP" group-title="Canais | Premiere",PREMIERE 2 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/531.ts
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 [SD]" tvg-logo="http://lgfp.one/AXU" group-title="Canais | Premiere",PREMIERE 2 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/538.ts
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 [FHD]" tvg-logo="http://lgfp.one/AXK" group-title="Canais | Premiere",PREMIERE 3 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/526.ts
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 [FHD][H265]" tvg-logo="http://lgfp.one/VSY" group-title="Canais | Premiere",PREMIERE 3 [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30285.ts
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 [HD]" tvg-logo="http://lgfp.one/AXQ" group-title="Canais | Premiere",PREMIERE 3 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/532.ts
+#EXTINF:-1 tvg-id="premiere.3.br" tvg-name="PREMIERE 3 [SD]" tvg-logo="http://lgfp.one/AXV" group-title="Canais | Premiere",PREMIERE 3 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/539.ts
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 [FHD]" tvg-logo="http://lgfp.one/AXL" group-title="Canais | Premiere",PREMIERE 4 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/527.ts
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 [FHD][H265]" tvg-logo="http://lgfp.one/VTB" group-title="Canais | Premiere",PREMIERE 4 [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30288.ts
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 [HD]" tvg-logo="http://lgfp.one/VSF" group-title="Canais | Premiere",PREMIERE 4 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/533.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.4.br" tvg-name="PREMIERE 4 [SD]" tvg-logo="http://lgfp.one/AXW" group-title="Canais | Premiere",PREMIERE 4 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/540.ts
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 [FHD]" tvg-logo="http://lgfp.one/AXM" group-title="Canais | Premiere",PREMIERE 5 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/528.ts
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="PREMIERE 5 [FHD][H265]" tvg-logo="http://lgfp.one/VSZ" group-title="Canais | Premiere",PREMIERE 5 [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30286.ts
+#EXTINF:-1 tvg-id="premiere.5.brazil.br" tvg-name="PREMIERE 5 [HD]" tvg-logo="http://lgfp.one/AXR" group-title="Canais | Premiere",PREMIERE 5 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/534.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.5.br" tvg-name="PREMIERE 5 [SD]" tvg-logo="http://lgfp.one/AXX" group-title="Canais | Premiere",PREMIERE 5 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/541.ts
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 [FHD]" tvg-logo="http://lgfp.one/AXN" group-title="Canais | Premiere",PREMIERE 6 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/529.ts
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 [FHD][H265]" tvg-logo="http://lgfp.one/VTC" group-title="Canais | Premiere",PREMIERE 6 [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30289.ts
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 [HD]" tvg-logo="http://lgfp.one/AXS" group-title="Canais | Premiere",PREMIERE 6 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/535.ts
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 [SD]" tvg-logo="http://lgfp.one/AXY" group-title="Canais | Premiere",PREMIERE 6 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/542.ts
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 [FHD]" tvg-logo="http://lgfp.one/AXO" group-title="Canais | Premiere",PREMIERE 7 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/530.ts
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 [FHD][H265]" tvg-logo="http://lgfp.one/VTD" group-title="Canais | Premiere",PREMIERE 7 [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30290.ts
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 [HD]" tvg-logo="http://lgfp.one/VSG" group-title="Canais | Premiere",PREMIERE 7 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/536.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Premiere.7.br" tvg-name="PREMIERE 7 [SD]" tvg-logo="http://lgfp.one/AXZ" group-title="Canais | Premiere",PREMIERE 7 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/543.ts
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 8 [FHD]" tvg-logo="http://lgfp.one/JYV1" group-title="Canais | Premiere",Premiere 8 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/329730.ts
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 8 [FHD][H265]" tvg-logo="http://lgfp.one/JYV1" group-title="Canais | Premiere",Premiere 8 [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/329731.ts
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 8 [HD]" tvg-logo="http://lgfp.one/JYV1" group-title="Canais | Premiere",Premiere 8 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/300082.ts
+#EXTINF:-1 tvg-id="premiere.8.br" tvg-name="Premiere 8 [SD]" tvg-logo="http://lgfp.one/JYV1" group-title="Canais | Premiere",Premiere 8 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/329729.ts
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="Premiere Clubes [4K]" tvg-logo="http://lgfp.one/NNS7" group-title="Canais | Premiere",Premiere Clubes [4K]
+http://dfpump.top:80/4201588651/7bEZRznfZF/300477.ts
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES [FHD]" tvg-logo="http://lgfp.one/AXI" group-title="Canais | Premiere",PREMIERE CLUBES [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/524.ts
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES [FHD][H265]" tvg-logo="http://lgfp.one/VTA" group-title="Canais | Premiere",PREMIERE CLUBES [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30287.ts
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES [HD]" tvg-logo="http://lgfp.one/AXT" group-title="Canais | Premiere",PREMIERE CLUBES [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/537.ts
+#EXTINF:-1 tvg-id="417184" tvg-name="PREMIERE CLUBES [SD]" tvg-logo="http://lgfp.one/AYA" group-title="Canais | Premiere",PREMIERE CLUBES [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/544.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Mosaico.Multijogos.br" tvg-name="PREMIERE MOSAICO [FHD]" tvg-logo="http://lgfp.one/AXJ" group-title="Canais | Premiere",PREMIERE MOSAICO [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/333838.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.2.br" tvg-name="SPORTV 2 [FHD]" tvg-logo="http://lgfp.one/AYH" group-title="Canais | SporTV",SPORTV 2 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/553.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.2.br" tvg-name="SPORTV 2 [FHD][H265]" tvg-logo="http://lgfp.one/WHV" group-title="Canais | SporTV",SPORTV 2 [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30291.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.2.br" tvg-name="SPORTV 2 [HD]" tvg-logo="http://lgfp.one/AYK" group-title="Canais | SporTV",SPORTV 2 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/557.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.2.br" tvg-name="SPORTV 2 [SD]" tvg-logo="http://lgfp.one/AYN" group-title="Canais | SporTV",SPORTV 2 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/560.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.3..br" tvg-name="SPORTV 3 [FHD]" tvg-logo="http://lgfp.one/WGW" group-title="Canais | SporTV",SPORTV 3 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/554.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.3..br" tvg-name="SPORTV 3 [FHD][H265]" tvg-logo="http://lgfp.one/WHW" group-title="Canais | SporTV",SPORTV 3 [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30292.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.3..br" tvg-name="SPORTV 3 [HD]" tvg-logo="http://lgfp.one/AYL" group-title="Canais | SporTV",SPORTV 3 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/558.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.3..br" tvg-name="SPORTV 3 [SD]" tvg-logo="http://lgfp.one/AYO" group-title="Canais | SporTV",SPORTV 3 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/561.ts
+#EXTINF:-1 tvg-id="sportv.4.br" tvg-name="SporTV 4 [FHD]" tvg-logo="http://lgfp.one/AYI" group-title="Canais | SporTV",SporTV 4 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/364301.ts
+#EXTINF:-1 tvg-id="sportv.4.br" tvg-name="SporTV 4 [FHD] [H265]" tvg-logo="http://lgfp.one/AYI" group-title="Canais | SporTV",SporTV 4 [FHD] [H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/376353.ts
+#EXTINF:-1 tvg-id="sportv.4.br" tvg-name="SporTV 4 [HD]" tvg-logo="http://lgfp.one/AYI" group-title="Canais | SporTV",SporTV 4 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/364300.ts
+#EXTINF:-1 tvg-id="sportv.4.br" tvg-name="SporTV 4 [SD]" tvg-logo="http://lgfp.one/AYI" group-title="Canais | SporTV",SporTV 4 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/376354.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV [4K]" tvg-logo="http://lgfp.one/NNT0" group-title="Canais | 4K",SporTV [4K]
+http://dfpump.top:80/4201588651/7bEZRznfZF/300480.ts
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV [4K] [60FPS]" tvg-logo="http://lgfp.one/AYJ" group-title="Canais | SporTV",SporTV [4K] [60FPS]
+http://dfpump.top:80/4201588651/7bEZRznfZF/364546.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.br" tvg-name="SPORTV [FHD]" tvg-logo="http://lgfp.one/AYI" group-title="Canais | SporTV",SPORTV [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/555.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.br" tvg-name="SPORTV [FHD][H265]" tvg-logo="http://lgfp.one/WHX" group-title="Canais | SporTV",SPORTV [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30293.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.br" tvg-name="SPORTV [HD]" tvg-logo="http://lgfp.one/AYJ" group-title="Canais | SporTV",SPORTV [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/556.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..SporTV.br" tvg-name="SPORTV [SD]" tvg-logo="http://lgfp.one/AYM" group-title="Canais | SporTV",SPORTV [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/559.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 [FHD]" tvg-logo="http://lgfp.one/AOA" group-title="Canais | ESPN",ESPN 1 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/250.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 [FHD][H265]" tvg-logo="http://lgfp.one/WKD" group-title="Canais | ESPN",ESPN 1 [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30280.ts
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 [HD]" tvg-logo="http://lgfp.one/AOJ" group-title="Canais | ESPN",ESPN 1 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/259.ts
+#EXTINF:-1 tvg-id="418725" tvg-name="ESPN 1 [SD]" tvg-logo="http://lgfp.one/AOS" group-title="Canais | ESPN",ESPN 1 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/269.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ZooMoo.HD.br" tvg-name="ESPN 2 [FHD]" tvg-logo="http://lgfp.one/AOB" group-title="Canais | ESPN",ESPN 2 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/251.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [FHD][H265]" tvg-logo="http://lgfp.one/WKE" group-title="Canais | ESPN",ESPN 2 [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30281.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [HD]" tvg-logo="http://lgfp.one/AOL" group-title="Canais | ESPN",ESPN 2 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/261.ts
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-name="ESPN 2 [SD]" tvg-logo="http://lgfp.one/AOQ" group-title="Canais | ESPN",ESPN 2 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/267.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ZooMoo.HD.br" tvg-name="ESPN 3 [FHD]" tvg-logo="http://lgfp.one/AOE" group-title="Canais | ESPN",ESPN 3 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/254.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 [FHD][H265]" tvg-logo="http://lgfp.one/WKA" group-title="Canais | ESPN",ESPN 3 [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30277.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 [HD]" tvg-logo="http://lgfp.one/AOI" group-title="Canais | ESPN",ESPN 3 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/258.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.3.HD.br" tvg-name="ESPN 3 [SD]" tvg-logo="http://lgfp.one/AOR" group-title="Canais | ESPN",ESPN 3 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/268.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.4.HD.br" tvg-name="ESPN 4 [FHD]" tvg-logo="http://lgfp.one/AOF" group-title="Canais | ESPN",ESPN 4 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/255.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.4.HD.br" tvg-name="ESPN 4 [FHD][H265]" tvg-logo="http://lgfp.one/WKG" group-title="Canais | ESPN",ESPN 4 [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30283.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Espn.4.br" tvg-name="ESPN 4 [HD]" tvg-logo="http://lgfp.one/AOM" group-title="Canais | ESPN",ESPN 4 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/262.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..ESPN.4.HD.br" tvg-name="ESPN 4 [SD]" tvg-logo="http://lgfp.one/AOU" group-title="Canais | ESPN",ESPN 4 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/271.ts
+#EXTINF:-1 tvg-id="ESPN.5.br" tvg-name="ESPN 5 [FHD]" tvg-logo="http://lgfp.one/QAZ6" group-title="Canais | ESPN",ESPN 5 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/330701.ts
+#EXTINF:-1 tvg-id="ESPN.5.br" tvg-name="ESPN 5 [FHD][H265]" tvg-logo="http://lgfp.one/QAZ7" group-title="Canais | ESPN",ESPN 5 [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/330702.ts
+#EXTINF:-1 tvg-id="ESPN.5.br" tvg-name="ESPN 5 [HD]" tvg-logo="http://lgfp.one/QAZ5" group-title="Canais | ESPN",ESPN 5 [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/330700.ts
+#EXTINF:-1 tvg-id="ESPN.5.br" tvg-name="ESPN 5 [SD]" tvg-logo="http://lgfp.one/QAZ8" group-title="Canais | ESPN",ESPN 5 [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/330703.ts
+#EXTINF:-1 tvg-id="espn.6.br" tvg-name="ESPN 6 [FHD]" tvg-logo="http://lgfp.one/UZA1" group-title="Canais | ESPN",ESPN 6 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/356966.ts
+#EXTINF:-1 tvg-id="417391" tvg-name="ESPN EXTRA [FHD]" tvg-logo="http://lgfp.one/ANY" group-title="Canais | ESPN",ESPN EXTRA [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/248.ts
+#EXTINF:-1 tvg-id="417391" tvg-name="ESPN EXTRA [FHD][H265]" tvg-logo="http://lgfp.one/QAZ4" group-title="Canais | ESPN",ESPN EXTRA [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/330699.ts
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA [HD]" tvg-logo="http://lgfp.one/AOK" group-title="Canais | ESPN",ESPN EXTRA [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/260.ts
+#EXTINF:-1 tvg-id="417391" tvg-name="ESPN EXTRA [SD]" tvg-logo="http://lgfp.one/AOT" group-title="Canais | ESPN",ESPN EXTRA [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/270.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 01 [FHD]" tvg-logo="http://lgfp.one/NOI7" group-title="Canais | Paramount +",Paramount+ 01 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/300933.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 01 [HD][2]" tvg-logo="http://lgfp.one/NOI7" group-title="Canais | Paramount +",Paramount+ 01 [HD][2]
+http://dfpump.top:80/4201588651/7bEZRznfZF/379544.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 02 [FHD]" tvg-logo="http://lgfp.one/NOI8" group-title="Canais | Paramount +",Paramount+ 02 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/300934.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 03 [FHD]" tvg-logo="http://lgfp.one/NOI9" group-title="Canais | Paramount +",Paramount+ 03 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/300935.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 04 [FHD]" tvg-logo="http://lgfp.one/NOJ0" group-title="Canais | Paramount +",Paramount+ 04 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/300936.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 05 [FHD]" tvg-logo="http://lgfp.one/NOI7" group-title="Canais | Paramount +",Paramount+ 05 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/375003.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 06 [FHD]" tvg-logo="http://lgfp.one/NOI7" group-title="Canais | Paramount +",Paramount+ 06 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/375004.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ PLTF 01 [FHD]" tvg-logo="http://lgfp.one/NOJ1" group-title="Canais | Paramount +",Paramount+ PLTF 01 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/300937.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ PLTF 02 [FHD]" tvg-logo="http://lgfp.one/NOJ2" group-title="Canais | Paramount +",Paramount+ PLTF 02 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/300938.ts
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ PLTF 03 [FHD]" tvg-logo="http://lgfp.one/NOJ3" group-title="Canais | Paramount +",Paramount+ PLTF 03 [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/300939.ts
+#EXTINF:-1 tvg-id="ufc.br" tvg-name="UFC FIGHT PASS 1" tvg-logo="http://lgfp.one/XRL" group-title="Canais | Esportes",UFC FIGHT PASS 1
+http://dfpump.top:80/4201588651/7bEZRznfZF/132344.ts
+#EXTINF:-1 tvg-id="ufc.br" tvg-name="UFC Fight Pass 2" tvg-logo="http://lgfp.one/DYS4" group-title="Canais | Esportes",UFC Fight Pass 2
+http://dfpump.top:80/4201588651/7bEZRznfZF/204149.ts
+#EXTINF:-1 tvg-id="ufc.br" tvg-name="UFC FIGHT PASS 3" tvg-logo="http://lgfp.one/XRK" group-title="Canais | Esportes",UFC FIGHT PASS 3
+http://dfpump.top:80/4201588651/7bEZRznfZF/132343.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Combate.HD.br" tvg-name="COMBATE [FHD]" tvg-logo="http://lgfp.one/ANZ" group-title="Canais | Esportes",COMBATE [FHD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/249.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Combate.HD.br" tvg-name="COMBATE [FHD][H265]" tvg-logo="http://lgfp.one/WJZ" group-title="Canais | Esportes",COMBATE [FHD][H265]
+http://dfpump.top:80/4201588651/7bEZRznfZF/30276.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Combate.HD.br" tvg-name="COMBATE [HD]" tvg-logo="http://lgfp.one/AOH" group-title="Canais | Esportes",COMBATE [HD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/257.ts
+#EXTINF:-1 tvg-id="São.Paulo/SP..Combate.HD.br" tvg-name="COMBATE [SD]" tvg-logo="http://lgfp.one/AOP" group-title="Canais | Esportes",COMBATE [SD]
+http://dfpump.top:80/4201588651/7bEZRznfZF/266.ts
